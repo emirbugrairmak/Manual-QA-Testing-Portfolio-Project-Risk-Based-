@@ -106,7 +106,7 @@ Full details are documented in the **Bug Report** sheet (including steps, expect
 ---
 
 ## How to Review
-1. Open the Excel workbook: **`<your-file-name>.xlsx`**
+1. Open the Excel workbook: **`Manual Portfolio 1.xlsx`**
 2. Start from **Summary** to see overall status.
 3. Check **Bug Report** for defects and evidence references.
 4. Review **Smoke / Sanity / Regression** sheets for execution details.
