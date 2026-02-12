@@ -15,6 +15,8 @@ The work is **risk-based** and includes:
 
 All artifacts are prepared in a single **Excel workbook**.
 
+UPDATE : The “Bug Report” sheet in the Excel template has been migrated in a Jira-compatible format.
+
 ---
 
 ## Scope (High-Level)
