@@ -17,9 +17,8 @@ All artifacts are prepared in a single **Excel workbook**.
 
 UPDATE : The “Bug Report” sheet in the Excel template was migrated to a Jira-compatible format, and the “Smoke,” “Sanity,” and “Regression” sheets were migrated to TestRail.
 
-Jira Link : [
-](https://emirbugra.atlassian.net/jira/software/projects/P1/list?jql=project+%3D+P1+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMWVhMmQzNWY0YjlmNDgwYzgyMWZiZWMwYjlmY2E0YzkiLCJwIjoiaiJ9)
----
+[Jira Link](https://emirbugra.atlassian.net/jira/software/projects/P1/list?jql=project+%3D+P1+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMWVhMmQzNWY0YjlmNDgwYzgyMWZiZWMwYjlmY2E0YzkiLCJwIjoiaiJ9)
+
 
 ## Scope (High-Level)
 Core user flows covered:
