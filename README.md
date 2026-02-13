@@ -15,7 +15,7 @@ The work is **risk-based** and includes:
 
 All artifacts are prepared in a single **Excel workbook**.
 
-UPDATE : The “Bug Report” sheet in the Excel template has been migrated in a Jira-compatible format.
+UPDATE : The “Bug Report” sheet in the Excel template was migrated to a Jira-compatible format, and the “Smoke,” “Sanity,” and “Regression” sheets were migrated to TestRail.
 
 ---
 
